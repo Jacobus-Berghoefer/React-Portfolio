@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App';
 
-//import any css here
-
 // Bringing in the pages the router will use to conditionally show the appropriate views
 import ErrorPage from './pages/Error';
 import HomePage from './pages/Home';

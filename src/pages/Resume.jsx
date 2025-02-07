@@ -6,7 +6,7 @@ export default function Resume() {
         {/* Downloadable Resume Link */}
         <div className="mt-4">
           <a
-            href="/Jacobus-Berghoefer-Resume.pdf" // Replace with actual resume file path
+            href="/Jacobus-Berghoefer-Resume.pdf"
             download
             className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700"
           >

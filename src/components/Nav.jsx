@@ -1,9 +1,8 @@
-// import { NavLink } from 'react-router-dom';
 import Navbar from './UI/NavBar';
 
 export default function Nav() {
   return (
-<header className="bg-gray-900 text-white py-4 shadow-md">
+<header className="text-white py-4 shadow-md">
 <div className="container mx-auto px-4">
 
 <Navbar
