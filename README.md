@@ -1,5 +1,5 @@
 # React-Portfolio
-
+![homePagePic-for-README](https://github.com/user-attachments/assets/fbd73410-4280-41a1-b493-a6ad3c03296d)
 ## Description
 
 This is my personal projects portfolio, showcased through a react web application that contains an About Me, Portfolio, Contact, and Resume page. The About Me section provides a bit of information on me. The Portfolio section contains projects I've completed with links to their GitHub repositories and a live demo that either allows you to try the application or see a video if it's terminal based. The Contact section lets you send me a message via email (Node.js not installed, so emails do not send as of today). The Resume section contains a download button for my personal resume in pdf format. There are also links to my GitHub, LinkedIn, and Stack Overflow profiles in the footer.
