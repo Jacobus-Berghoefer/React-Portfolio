@@ -7,7 +7,7 @@ function App() {
     <div className="flex flex-col min-h-screen">
         <Nav />
 
-    <section className="container mx-auto px-4 py-6 min-h-screen">
+    <section className="container mx-auto px-4 py-6 flex-grow">
         <Outlet />
     </section>
 

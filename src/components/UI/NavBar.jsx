@@ -7,7 +7,7 @@ export default function NavBar({ links }) {
             {/* Logo / Branding */}
             <h1 className="text-2xl font-bold">
               <NavLink to="/" className="hover:text-gray-400">
-                My Portfolio
+                Jacobus Berghoefer
               </NavLink>
             </h1>
     

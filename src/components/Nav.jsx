@@ -8,8 +8,7 @@ export default function Nav() {
 
 <Navbar
   links={[
-    { path: "/", label: "Home" },
-    { path: "/about", label: "About" },
+    { path: "/about", label: "About Me" },
     { path: "/portfolio", label: "Portfolio" },
     { path: "/contact", label: "Contact" },
     { path: "/resume", label: "Resume" },
