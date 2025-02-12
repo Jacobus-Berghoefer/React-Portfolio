@@ -1,6 +1,12 @@
 export default function Portfolio() {
     const projects = [
       {
+        title: "Candidate Search",
+        image: "/candidate-search.png",
+        deployedLink: "https://candidate-search-github-jacobus.netlify.app/",
+        githubLink: "https://github.com/Jacobus-Berghoefer/Candidate-Search",
+      },
+      {
         title: "Weather Dashboard",
         image: "/weather-dashboard.png",
         deployedLink: "https://weather-dashboard-p5l7.onrender.com/",
