@@ -1,10 +1,16 @@
 export default function Portfolio() {
     const projects = [
       {
-        title: "Candidate Search",
-        image: "/candidate-search.png",
-        deployedLink: "https://candidate-search-github-jacobus.netlify.app/",
-        githubLink: "https://github.com/Jacobus-Berghoefer/Candidate-Search",
+        title: "Quotes for Days",
+        image: "/Quotes-for-Days.png",
+        deployedLink: "https://quote-generator-1efv.onrender.com",
+        githubLink: "https://github.com/Jacobus-Berghoefer/quote-generator",
+      },
+      {
+        title: "Book Search Engine",
+        image: "/book-search-engine.png",
+        deployedLink: "https://book-search-engine-wjjl.onrender.com/",
+        githubLink: "https://github.com/Jacobus-Berghoefer/book-search-engine",
       },
       {
         title: "Weather Dashboard",
@@ -13,22 +19,28 @@ export default function Portfolio() {
         githubLink: "https://github.com/Jacobus-Berghoefer/Weather-Dashboard",
       },
       {
+        title: "Economy Clicker Game",
+        image: "/money-maker.png",
+        deployedLink: "https://vincentt94.github.io/Money-Maker/",
+        githubLink: "https://github.com/vincentt94/Money-Maker",
+      },
+      {
         title: "Company Employee Database",
         image: "/company-employee-database.png",
         deployedLink: "https://app.screencastify.com/v3/watch/mPIK4XDVYjK94HMHVkpz",
         githubLink: "https://github.com/Jacobus-Berghoefer/Company-Employee-Database",
       },
       {
+        title: "Candidate Search",
+        image: "/candidate-search.png",
+        deployedLink: "https://candidate-search-github-jacobus.netlify.app/",
+        githubLink: "https://github.com/Jacobus-Berghoefer/Candidate-Search",
+      },
+      {
         title: "Vehicle Builder",
         image: "/vehicle-builder.png",
         deployedLink: "https://app.screencastify.com/v3/watch/njZ7sCiI7HM52s2v5OaI",
         githubLink: "https://github.com/Jacobus-Berghoefer/vehicle-builder",
-      },
-      {
-        title: "Economy Clicker Game",
-        image: "/money-maker.png",
-        deployedLink: "https://vincentt94.github.io/Money-Maker/",
-        githubLink: "https://github.com/vincentt94/Money-Maker",
       },
       {
         title: "Rock Paper Scissors",
